@@ -32,4 +32,4 @@ Code Structure :
   script.js → Handles task management logic.
 
 Live Demo
-  Check out a live version of a similar To-Do List project here.
+  Check out a live version of a similar To-Do List project here : https://iamsatyamy.github.io/todo-with-html-css-js/
